@@ -1,5 +1,5 @@
 {
-    "name": "irazasyed/php-transmission-sdk",
+    "name": "blazeag/php-transmission-sdk",
     "type": "library",
     "description": "A Transmission-RPC API SDK for PHP with Laravel Support",
     "keywords": [
@@ -10,13 +10,13 @@
         "laravel transmission",
         "php transmission client"
     ],
-    "homepage": "https://github.com/irazasyed/php-transmission-sdk",
+    "homepage": "https://github.com/blazeag/php-transmission-sdk",
     "license": "MIT",
     "authors": [
         {
             "name": "Syed I.R.",
             "email": "gh@lukonet.com",
-            "homepage": "https://github.com/irazasyed",
+            "homepage": "https://github.com/blazeag",
             "role": "Developer"
         }
     ],
